@@ -1,7 +1,7 @@
 
 > Diese Seite bei [https://baa-mb.github.io/mb-tutor-05/](https://baa-mb.github.io/mb-tutor-05/) öffnen
 
-## Als Erweiterung verwenden Version 55555
+## Als Tutorial verwenden Version 55555
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden. NEU
 ```block
 basic.forever(function() {
