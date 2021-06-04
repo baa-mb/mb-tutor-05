@@ -1,7 +1,7 @@
 
 > Diese Seite bei [https://baa-mb.github.io/mb-tutor-05/](https://baa-mb.github.io/mb-tutor-05/) öffnen
 
-## Als Erweiterung verwenden
+## Als Erweiterung verwenden Version 5
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
