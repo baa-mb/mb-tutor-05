@@ -10,7 +10,9 @@ basic.forever(function() {
         basic.showString("alois")
     })
 
-```* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
+```
+
+* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klicke auf **Neues Projekt**
 * klicke auf **Erweiterungen** unter dem Zahnrad-Menü
 * nach **https://github.com/baa-mb/mb-tutor-04** suchen und importieren
