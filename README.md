@@ -3,7 +3,7 @@
 
 ## Als Erweiterung verwenden Version 55
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden. NEU
-```
+```block
 basic.forever(function() {
         basic.showNumber(input.temperature())
         basic.pause(1000)
