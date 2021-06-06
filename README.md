@@ -1,6 +1,43 @@
 
 > Diese Seite bei [https://baa-mb.github.io/mb-tutor-05/](https://baa-mb.github.io/mb-tutor-05/) öffnen
 
+Inhaltsverzeichnis
+## Den Zufall kann man vielleicht auch berechnen ...
+Maria behauptet: Wenn man eine Münze oft genug wirft, dann kommen immer gleich viele Kopf- und Zahlergebnisse.
+
+Das würde bedeuten: Wirft man 100-mal, dann kommen in der Gesamtrechnung immer 50 Kopf- und 50 Zahlergebnisse?
+
+Ist das exakt immer so?
+Ist das meistens so?
+Könnte es auch 10 zu 90 ausgehen?
+Am besten du testest einmal mit einigen Würfen einer Münze – versuche einmal 10 Würfe: Lege dir eine Tabelle an, in die du die Ergebnisse einträgst.
+![Münzen](https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/600px-Kopf_zahl.jpg)
+##	Aufgabenstellung
+![SkizzeTabelle_zufall1](https://microbit.eeducation.at/images/e/ec/Tabelle_zufall1.jpg)
+##	Materialien
+##	Zeitaufwand
+##	Schwierigkeitsgrad
+##	Kompetenzen
+##	Unterrichtsfächer
+##	Tipps und Hilfestellungen
+###	Erforderliche Programmierblöcke
+####	Ziel
+####	Vereinbarung
+####	Blöcke
+###	Eckpfeiler zur Umsetzung
+###	Schritt für Schritt zur Lösung
+##	Präsentation und Reflexion
+###	Allgemein
+###	Projektspezifisch
+##	Weiterentwicklung
+###	Noch eine Erweiterungsaufgabe
+
+```
+<h1>
+dsasdfasdfa
+</h1>
+```
+
 ## Als Erweiterung verwenden Version 555
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden. NEU
 ```block
@@ -55,7 +92,38 @@ During an interaction, the step description (all text before the first code bloc
     })
 
 ```
+- one
+- two
+***
+---
+___
 
++++
+===
+
+--
+**
+__
+
+xxxx
+
+***
+ ***
+   ***
+
+# foo
+## foo
+### foo
+#### foo
+##### foo
+###### foo
+
+#5 bolt
+
+#hashtag
+
+
+# foo *bar* \*baz\*
 
 ## Make a new variable @showdialog
 
