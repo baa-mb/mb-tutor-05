@@ -243,5 +243,15 @@ Get a `||input:temperature||` block and place it in the value slot of
 ```
 
  
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+  - for PXT/microbit
+
+<script src="https://makecode.com/gh-pages-embed.js">
+
+</script>
+
+<script>
+
+makeCodeRender("{{ site.makecode.home\_url }}", "{{
+site.github.owner\_name }}/{{ site.github.repository\_name }}");
+
+</script>
