@@ -228,7 +228,7 @@ tower](https://github.com/baa-mb/mb-tutor-04/raw/master/bilder/mb.png
 Get a `||input:temperature||` block and place it in the value slot of
 `||basic:show number||`.
 
-``` 
+```block 
     basic.forever(function() { 
         basic.showNumber(input.temperature())
         basic.pause(1000)
