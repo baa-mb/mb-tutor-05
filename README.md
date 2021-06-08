@@ -1,6 +1,6 @@
-## ![Icon](Icon_story.png "Icon") Den Zufall kann man vielleicht auch berechnen ...
+## ![Icon](https://microbit.eeducation.at/images/thumb/c/c8/Icon_story.png/40px-Icon_story.png "Icon") Den Zufall kann man vielleicht auch berechnen ...
 
-![kopf\_zahl.jpg](kopf_zahl.jpg "kopf_zahl.jpg")
+![kopf\_zahl.jpg](https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/600px-Kopf_zahl.jpg "Kopf_zahl.jpg")
 
 Maria behauptet: Wenn man eine Münze oft genug wirft, dann kommen immer
 gleich viele Kopf- und Zahlergebnisse.
@@ -16,9 +16,9 @@ Am besten du testest einmal mit einigen Würfen einer Münze – versuche
 einmal 10 Würfe: Lege dir eine Tabelle an, in die du die Ergebnisse
 einträgst.
 
-![50%](Tabelle_zufall1.jpg "50%")
+![50%](https://microbit.eeducation.at/images/e/ec/Tabelle_zufall1.jpg "50%")
 
-## ![Icon](Icon_gluehbirne.png "Icon") Aufgabenstellung
+## ![Icon](https://microbit.eeducation.at/images/thumb/7/7e/Icon_gluehbirne.png/40px-Icon_gluehbirne.png "Icon") Aufgabenstellung
 
 Mit dem BBC micro:bit kannst du dies noch bequemer testen – du benützt
 den Zufallsgenerator des micro:bit. Entwickle ein Programm, mit dem man
@@ -32,13 +32,13 @@ viele Würfe zu produzieren, sollte dabei ebenfalls zum Tragen kommen.
   - Taste A+B sollten die Gesamtanzahl der Versuche darstellen
   - Neustart mit "Reset"-Taste (Erweiterung)
 
-## ![Icon](icon_material.png "Icon") Materialien
+## ![Icon](https://microbit.eeducation.at/images/thumb/c/ce/Icon_material.png/40px-Icon_material.png "Icon") Materialien
 
   - Münze
   - Blatt Papier
   - micro:bit
 
-## ![Icon](icon_sanduhr.png "Icon") Zeitaufwand
+## ![Icon](https://microbit.eeducation.at/images/thumb/8/8a/Icon_sanduhr.png/40px-Icon_sanduhr.png "Icon") Zeitaufwand
 
   - 1 Unterrichtseinheit
 
