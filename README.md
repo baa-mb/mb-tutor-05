@@ -42,11 +42,11 @@ viele Würfe zu produzieren, sollte dabei ebenfalls zum Tragen kommen.
 
   - 1 Unterrichtseinheit
 
-## ![Icon](https://microbit.eeducation.at/images/thumb/0/03/Icon_puzzle3.png/20px-Icon_puzzle3.png "Icon") Schwierigkeitsgrad
+## ![Icon](https://microbit.eeducation.at/images/thumb/0/03/Icon_puzzle3.png/40px-Icon_puzzle3.png "Icon") Schwierigkeitsgrad
 
 [30px|borderless](Datei:SternGelb.png "wikilink")[30px|borderless](Datei:SternLeer.png "wikilink")[30px|borderless](Datei:SternLeer.png "wikilink")
 
-## ![Icon](https://microbit.eeducation.at/images/thumb/b/b3/Icon_brain.png/20px-Icon_brain.png "Icon") Kompetenzen
+## ![Icon](https://microbit.eeducation.at/images/thumb/b/b3/Icon_brain.png/40px-Icon_brain.png "Icon") Kompetenzen
 
 ![IMG\_5764\_(1).png](IMG_5764_\(1\).png "IMG_5764_(1).png") Du solltest
 bereits
