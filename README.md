@@ -189,6 +189,12 @@ Bei dieser Aufgabe lernst du auch
 ![Lesen\_prg.png](Lesen_prg.png "Lesen_prg.png")
 
 ```blocks
+input.onButtonPressed(Button.A, function () {
+    basic.showNumber(k)
+})
+input.onButtonPressed(Button.B, function () {
+    basic.showNumber(z)
+})
 let z = 0
 let k = 0
 basic.showArrow(ArrowNames.West)
