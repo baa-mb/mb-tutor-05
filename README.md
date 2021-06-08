@@ -1,190 +1,216 @@
+## ![Icon](https://microbit.eeducation.at/images/thumb/c/c8/Icon_story.png/40px-Icon_story.png "Icon") Den Zufall kann man vielleicht auch berechnen ...
 
-> Diese Seite bei [https://baa-mb.github.io/mb-tutor-05/](https://baa-mb.github.io/mb-tutor-05/) öffnen
+![kopf\_zahl.jpg](https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/600px-Kopf_zahl.jpg "Kopf_zahl.jpg")
 
-Inhaltsverzeichnis
-## Den Zufall kann man vielleicht auch berechnen ...
-Maria behauptet: Wenn man eine Münze oft genug wirft, dann kommen immer gleich viele Kopf- und Zahlergebnisse.
+Maria behauptet: Wenn man eine Münze oft genug wirft, dann kommen immer
+gleich viele Kopf- und Zahlergebnisse.
 
-Das würde bedeuten: Wirft man 100-mal, dann kommen in der Gesamtrechnung immer 50 Kopf- und 50 Zahlergebnisse?
+Das würde bedeuten: Wirft man 100-mal, dann kommen in der Gesamtrechnung
+immer 50 Kopf- und 50 Zahlergebnisse?
 
-Ist das exakt immer so?
-Ist das meistens so?
-Könnte es auch 10 zu 90 ausgehen?
-Am besten du testest einmal mit einigen Würfen einer Münze – versuche einmal 10 Würfe: Lege dir eine Tabelle an, in die du die Ergebnisse einträgst.
-![Münzen](https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/600px-Kopf_zahl.jpg)
-##	Aufgabenstellung
-![SkizzeTabelle_zufall1](https://microbit.eeducation.at/images/e/ec/Tabelle_zufall1.jpg)
-##	Materialien
-##	Zeitaufwand
-##	Schwierigkeitsgrad
-##	Kompetenzen
-##	Unterrichtsfächer
-##	Tipps und Hilfestellungen
-###	Erforderliche Programmierblöcke
-####	Ziel
-####	Vereinbarung
-####	Blöcke
-###	Eckpfeiler zur Umsetzung
-###	Schritt für Schritt zur Lösung
-##	Präsentation und Reflexion
-###	Allgemein
-###	Projektspezifisch
-##	Weiterentwicklung
-###	Noch eine Erweiterungsaufgabe
+  - Ist das exakt immer so?
+  - Ist das meistens so?
+  - Könnte es auch 10 zu 90 ausgehen?
 
-```
-<h1>
-dsasdfasdfa
-</h1>
-```
+Am besten du testest einmal mit einigen Würfen einer Münze – versuche
+einmal 10 Würfe: Lege dir eine Tabelle an, in die du die Ergebnisse
+einträgst.
 
-## Als Erweiterung verwenden Version 555
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden. NEU
-```block
-basic.forever(function() {
-        basic.showNumber(input.temperature())
-        basic.pause(1000)
-        basic.showString("alois bachinger")
-    })
+![50%](https://microbit.eeducation.at/images/e/ec/Tabelle_zufall1.jpg "50%")
 
-```
+## ![Icon](https://microbit.eeducation.at/images/thumb/7/7e/Icon_gluehbirne.png/40px-Icon_gluehbirne.png "Icon") Aufgabenstellung
 
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/baa-mb/mb-tutor-04** suchen und importieren
+Mit dem BBC micro:bit kannst du dies noch bequemer testen – du benützt
+den Zufallsgenerator des micro:bit. Entwickle ein Programm, mit dem man
+das Werfen der Münzen simulieren kann. Der Vorteil des Computers, sehr
+viele Würfe zu produzieren, sollte dabei ebenfalls zum Tragen kommen.
 
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/baa-mb/mb-tutor-04/workflows/MakeCode/badge.svg)
+  - Das Schütteln des micro:bit sollte den Zufallsgenerator aufrufen:
+    Dieser soll Kopf oder Zahl produzieren.
+  - Taste A sollte die Anzahl der "Kopfwürfe" darstellen
+  - Taste B sollte die Anzahl der "Zahlwürfe" darstellen
+  - Taste A+B sollten die Gesamtanzahl der Versuche darstellen
+  - Neustart mit "Reset"-Taste (Erweiterung)
 
-Um dieses Repository in MakeCode zu bearbeiten.
+## ![Icon](https://microbit.eeducation.at/images/thumb/c/ce/Icon_material.png/40px-Icon_material.png "Icon") Materialien
 
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/baa-mb/mb-tutor-04** ein und klicke auf Importieren
+  - Münze
+  - Blatt Papier
+  - micro:bit
 
-## Blockvorschau
+## ![Icon](https://microbit.eeducation.at/images/thumb/8/8a/Icon_sanduhr.png/40px-Icon_sanduhr.png "Icon") Zeitaufwand
 
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
+  - 1 Unterrichtseinheit
 
-![Eine gerenderte Ansicht der Blöcke](https://github.com/baa-mb/mb-tutor-04/raw/master/.github/makecode/blocks.png)
+## ![Icon](https://microbit.eeducation.at/images/thumb/0/03/Icon_puzzle3.png/40px-Icon_puzzle3.png "Icon") Schwierigkeitsgrad
 
-#### Metadaten (verwendet für Suche, Rendering)
+[30px|borderless](Datei:SternGelb.png "wikilink")[30px|borderless](Datei:SternLeer.png "wikilink")[30px|borderless](Datei:SternLeer.png "wikilink")
 
-# Lernprogramm
+## ![Icon](https://microbit.eeducation.at/images/thumb/b/b3/Icon_brain.png/40px-Icon_brain.png "Icon") Kompetenzen
 
-## It's time to code! @showHint
+![IMG\_5764\_(1).png](IMG_5764_\(1\).png "IMG_5764_(1).png") Du solltest
+bereits
 
-Let's get real bright. We're going to make all the lights flash on your board!
-During an interaction, the step description (all text before the first code block or image) is shown in the caption. If the paragraph length goes beyond the display length of caption, a "More" button appears in order to view the rest of the paragraph. It's best to keep the paragraph short enough to so all of it appears in the caption without requiring the user to click to see it all. If your instructions need more text, you can just create an additional step to split up the activity.
-```block
-    export function baa() {
-        basic.showString("Alois")
-        console.log("alois")
+  - einen Prozentanteil schätzen können
+  - eine Wertetabelle anlegen und auswerten können
+
+Beim Programmieren lernst bzw. übst du
+
+  - [Variablen](Variablen "wikilink") zu verwenden
+  - [Operatoren](Operatoren "wikilink") zu verwenden
+  - den [Zufallsgenerator](Zufallsgenerator "wikilink") zu nutzen
+  - [Bedingungen](Bedingungen "wikilink") zu verwenden
+
+Bei dieser Aufgabe lernst du auch
+
+  - ein NEUES Programm zu lesen und es zu interpretieren
+
+## ![Icon](https://microbit.eeducation.at/images/thumb/f/f3/Icon_faecher.png/40px-Icon_faecher.png "Icon") Unterrichtsfächer
+
+  - Mathematik
+  - Informatik
+  - Deutsch
+
+## ![Icon](https://microbit.eeducation.at/images/thumb/3/3d/Icon_hilfe.png/40px-Icon_hilfe.png "Icon") Tipps und Hilfestellungen
+
+### Erforderliche Programmierblöcke
+
+#### Ziel
+
+  - Der Zufallsgenerator sollte 2 Zustände darstellen: wahr oder falsch
+  - Diese Zustände entsprechen den 2 Möglichkeiten beim Münzwurf
+  - Es sollte jeweils die Anzahl der Treffer für "wahr" und für "falsch"
+    gezählt werden.
+
+#### Vereinbarung
+
+  - "**W**ahr bedeutet Kopf" und "Falsch bedeutet **Z**ahl"
+
+[200px ](Datei:kopf.png "wikilink") ... [200px
+](Datei:zahl.png "wikilink")
+
+#### Blöcke
+
+  - Anstelle des Münzwurfs sollte der Zufallsgenerator "wahr" oder
+    "falsch" liefern <spoiler text="Block"> ![Zwei mögliche Zustände
+    (wahr und falsch)?](Zufall_w_f.png
+    "Zwei mögliche Zustände (wahr und falsch)?")</spoiler>
+  - Der Zufallsgenerator sollte durch Schütteln des micro:bit aufgerufen
+    werden <spoiler text="Block"> ![Zwei mögliche Zustände (wahr und
+    falsch)?](Geschuettelt.png
+    "Zwei mögliche Zustände (wahr und falsch)?")</spoiler>
+  - Je nach Bedingung "wahr" oder "falsch" sollten verschiedene Aktionen
+    stattfinden <spoiler text="Block"> ![Wenndann.png](Wenndann.png
+    "Wenndann.png")</spoiler>
+  - Bestimmte Tastenereignisse für Taste A, B und A+B - müssen Daten
+    anzeigen <spoiler text="Block">![Taste\_a.png](Taste_a.png
+    "Taste_a.png")
+    ![Bild\_20180513\_004039.png](Bild_20180513_004039.png
+    "Bild_20180513_004039.png")
+    ![Bild\_20180513\_004129.png](Bild_20180513_004129.png
+    "Bild_20180513_004129.png")</spoiler>
+  - Daten müssen angezeigt werden
+    <spoiler text="Block">![Zeige\_nr.png](Zeige_nr.png
+    "Zeige_nr.png")</spoiler>
+  - Bei Programmstart durchzuführen <spoiler text="Block">
+    ![Start\_ereignis.png](Start_ereignis.png
+    "Start_ereignis.png")</spoiler>
+  - Variablen müssen angelegt und initialisiert werden
+    <spoiler text="Block"> ![Beim\_start.png](Beim_start.png
+    "Beim_start.png")</spoiler>
+  - Variablen müssen hochgezählt werden
+    <spoiler text="Block">![Add\_var.png](Add_var.png
+    "Add_var.png")</spoiler>
+  - Variablen müssen addiert werden
+    <spoiler text="Block">![Op\_add.png](Op_add.png
+    "Op_add.png")</spoiler>
+
+### Eckpfeiler zur Umsetzung
+
+  - Programmiere den micro:bit-Zufallsgenerator so, dass durch Schütteln
+    ein Wert "wahr" oder "falsch" ermittelt wird (= Kopf oder Zahl)
+  - Wenn Taster "A" gedrückt wird, soll die Anzahl Kopfwürfe gezeigt
+    werden
+  - Wenn Taster "B" gedrückt wird, soll die Anzahl Zahlwürfe gezeigt
+    werden
+  - Wenn Taster "A+B" gedrückt werden, soll die Summe der Würfe
+    dargestellt werden
+  - Zufallswerte erhält man aus dem Menü Mathematik "Wähle zufälligen
+    Wahr- und Falsch-Wert"
+  - Wird Wahr ermittelt, so soll der Buchstabe "K" für Kopf erscheinen,
+    andernfalls "Z" für Zahl.
+  - Hier benötigt man die logische Verzweigung "Wenn ... dann ... sonst"
+  - Das System sollte über zwei Variablen protokollieren, wie oft Kopf
+    und wie oft Zahl geworfen wurde
+
+### [Schritt für Schritt zur Lösung](Lösung_zufall "wikilink")
+
+  -   
+    Hinweise zur Lösungsfindung und auch eine mögliche, komplette Lösung
+    findest du auf der [Lösungsseite zu diesem
+    Beispiel](Lösung_zufall "wikilink")
+
+## ![Icon](https://microbit.eeducation.at/images/thumb/6/62/Presentation.png/40px-Presentation.png "Icon") Präsentation und Reflexion
+
+### Allgemein
+
+  - Stelle dein Ergebnis vor\! Was kann dein Produkt?
+  - Was hat dir bei der Entwicklung deines Produkts gefallen?
+  - Welche Schwierigkeiten hattest? Wie konntest du diese lösen?
+  - Erläutere, wie du dein Produkt programmiert hast\!
+  - Was war bei dieser Aufgabe interessant für dich?
+
+### Projektspezifisch
+
+  - Welche Regeln wurden für Kopf und Zahl festgelegt? Welche andere
+    Regeln für "Kopf oder Zahl" gäbe es noch?
+  - Welche Diskussionspunkte ergaben sich während des Spiels?
+  - Wo wird im Alltag der Wirtschaft mit Zufallsgenerator gearbeitet?
+  - Wo braucht man bei einem Computerspiel den Zufallsgenerator.
+  - Wo war bei diesem Beispiel der Vorteil des Computers zu sehen, wo
+    war er eher ein Nachteil?
+  - Bei welcher Erweiterungsstufe war es am schwierigsten, einen
+    Programmcode zu erstellen.
+
+## ![Icon](https://microbit.eeducation.at/images/thumb/0/0c/Icon_plus.png/40px-Icon_plus.png "Icon") Weiterentwicklung
+
+  - Schleife: Du kannst mit einer Schleife nicht nur jeweils einen Wurf
+    produzieren, sondern gleich 100 oder gar 1000 Würfe
+  - Das bedeutet: Wenn einmal geschüttelt wird, werden gleich 1000 Würfe
+    simuliert
+  - Nütze dabei den Vorteil des Computers – er kann sehr schnell rechnen
+
+### Noch eine Erweiterungsaufgabe
+
+**Analyse eines fremden Programmcodes:**  
+
+  - Was stellt dieser Programmcode dar?
+
+![Lesen\_prg.png](Lesen_prg.png "Lesen_prg.png")
+
+```blocks
+input.onButtonPressed(Button.A, function () {
+    basic.showNumber(k)
+})
+input.onButtonPressed(Button.B, function () {
+    basic.showNumber(z)
+})
+let z = 0
+let k = 0
+basic.showArrow(ArrowNames.West)
+k = 0
+z = 0
+for (let index = 0; index < 10000; index++) {
+    if (Math.randomBoolean()) {
+        k += 1
+    } else {
+        z += 1
     }
-``` 
-
-```block
-    basic.forever(function() {
-        basic.showNumber(input.temperature())
-        basic.pause(1000)
-        basic.showString("alois")
-    })
+}
+basic.showString("Fertig!")
 
 ```
-- one
-- two
-***
----
-___
-
-+++
-===
-
---
-**
-__
-
-xxxx
-
-***
- ***
-   ***
-
-# foo
-## foo
-### foo
-#### foo
-##### foo
-###### foo
-
-#5 bolt
-
-#hashtag
 
 
-# foo *bar* \*baz\*
-
-## Make a new variable @showdialog
-
-Let's get real bright. We're going to make all the lights flash on your board!
-During an interaction, the step description (all text before the first code block or image) is shown in the caption. If the paragraph length goes beyond the display 
-
-```block
-length of caption
-```
-, a "More" button appears in order to view the rest of the paragraph. It's best to keep the paragraph short enough to so all of it appears in the caption without requiring the user to click to see it all. If your instructions need more text, you can just create an additional s**te**p 
-
-
-
-# Zweite Hauptüberschrift 
-
-
-Mit diesem Kurs lernst du, wie du Microbit entdecken kannst!
-During an interaction, the step description (all text before the first code block or image) is shown in the caption. If the paragraph length goes beyond the display length of caption, a "More" button appears in order to view the rest of the paragraph. It's best to keep the paragraph short enough to so all of it appears in the caption without requiring the user to click to see it all. If your instructions need more text, you can just create an additional step to split up the activity.
-```block
-    export function baa() {
-        basic.showString("Alois")
-        console.log("alois")
-    }
-``` 
-
-![Hier muss ein Bild stehen](https://github.com/baa-mb/mb-tutor-04/raw/master/bilder/bild.png)
-
-## Step 2
-# Anleitung 
-
-Sehr gut!xxxx
-
-![Bild](https://github.com/baa-mb/mb-tutor-04/raw/master/bilder/b.png)
-
-![Bildreferenzen richtig](https://github.com/baa-mb/mb-tutor-04/raw/master/bilder/w.png)
-
-## Introduction @unplugged
-
-Have the agent build a tower! Make a command to tell it how many levels to build.
-![Agent building a tower](https://github.com/baa-mb/mb-tutor-04/raw/master/bilder/mb.png)
-
-
-
-## Schritt Show the temperature
-
-Get a ``||input:temperature||`` block and place it in the value slot of ``||basic:show number||``.
-
-```block
-    basic.forever(function() { 
-        basic.showNumber(input.temperature())
-        basic.pause(1000)
-    })
-
-
-    basic.forever(function() {
-        basic.showNumber(input.temperature())
-        basic.pause(1000)
-        basic.showString("alois")
-    })
-```
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
-
+Dieses Programm ist hier aufrufbar:
+[Link](https://makecode.microbit.org/#pub:_XdWYVaPe8WUk)
