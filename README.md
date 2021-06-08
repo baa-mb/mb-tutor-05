@@ -188,5 +188,23 @@ Bei dieser Aufgabe lernst du auch
 
 ![Lesen\_prg.png](Lesen_prg.png "Lesen_prg.png")
 
+```blocks
+let z = 0
+let k = 0
+basic.showArrow(ArrowNames.West)
+k = 0
+z = 0
+for (let index = 0; index < 10000; index++) {
+    if (Math.randomBoolean()) {
+        k += 1
+    } else {
+        z += 1
+    }
+}
+basic.showString("Fertig!")
+
+```
+
+
 Dieses Programm ist hier aufrufbar:
 [Link](https://makecode.microbit.org/#pub:_XdWYVaPe8WUk)
