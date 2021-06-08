@@ -42,11 +42,11 @@ viele Würfe zu produzieren, sollte dabei ebenfalls zum Tragen kommen.
 
   - 1 Unterrichtseinheit
 
-## ![Icon](Icon_puzzle3.png "Icon") Schwierigkeitsgrad
+## ![Icon](https://microbit.eeducation.at/images/thumb/0/03/Icon_puzzle3.png/20px-Icon_puzzle3.png "Icon") Schwierigkeitsgrad
 
 [30px|borderless](Datei:SternGelb.png "wikilink")[30px|borderless](Datei:SternLeer.png "wikilink")[30px|borderless](Datei:SternLeer.png "wikilink")
 
-## ![Icon](Icon_brain.png "Icon") Kompetenzen
+## ![Icon](https://microbit.eeducation.at/images/thumb/b/b3/Icon_brain.png/20px-Icon_brain.png "Icon") Kompetenzen
 
 ![IMG\_5764\_(1).png](IMG_5764_\(1\).png "IMG_5764_(1).png") Du solltest
 bereits
@@ -65,13 +65,13 @@ Bei dieser Aufgabe lernst du auch
 
   - ein NEUES Programm zu lesen und es zu interpretieren
 
-## ![Icon](Icon_faecher.png "Icon") Unterrichtsfächer
+## ![Icon](https://microbit.eeducation.at/images/thumb/f/f3/Icon_faecher.png/40px-Icon_faecher.png "Icon") Unterrichtsfächer
 
   - Mathematik
   - Informatik
   - Deutsch
 
-## ![Icon](Icon_hilfe.png "Icon") Tipps und Hilfestellungen
+## ![Icon](https://microbit.eeducation.at/images/thumb/3/3d/Icon_hilfe.png/40px-Icon_hilfe.png "Icon") Tipps und Hilfestellungen
 
 ### Erforderliche Programmierblöcke
 
@@ -150,7 +150,7 @@ Bei dieser Aufgabe lernst du auch
     findest du auf der [Lösungsseite zu diesem
     Beispiel](Lösung_zufall "wikilink")
 
-## ![Icon](presentation.png "Icon") Präsentation und Reflexion
+## ![Icon](https://microbit.eeducation.at/images/thumb/6/62/Presentation.png/40px-Presentation.png "Icon") Präsentation und Reflexion
 
 ### Allgemein
 
@@ -172,7 +172,7 @@ Bei dieser Aufgabe lernst du auch
   - Bei welcher Erweiterungsstufe war es am schwierigsten, einen
     Programmcode zu erstellen.
 
-## ![Icon](icon_plus.png "Icon") Weiterentwicklung
+## ![Icon](https://microbit.eeducation.at/images/thumb/0/0c/Icon_plus.png/40px-Icon_plus.png "Icon") Weiterentwicklung
 
   - Schleife: Du kannst mit einer Schleife nicht nur jeweils einen Wurf
     produzieren, sondern gleich 100 oder gar 1000 Würfe
