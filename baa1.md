@@ -1,4 +1,4 @@
-## <span id="Den_Zufall_kann_man_vielleicht_auch_berechnen_..." class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_story.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/c/c8/Icon_story.png/20px-Icon_story.png" srcset="https://microbit.eeducation.at/images/thumb/c/c8/Icon_story.png/30px-Icon_story.png 1.5x, /images/thumb/c/c8/Icon_story.png/40px-Icon_story.png 2x" width="20" height="20" alt="Icon" /></a> Den Zufall kann man vielleicht auch berechnen ...</span>
+## <img src="https://microbit.eeducation.at/images/thumb/c/c8/Icon_story.png/30px-Icon_story.png" width="30" alt="Icon" /> Den Zufall kann man vielleicht auch berechnen ...
 
 
 Maria behauptet: Wenn man eine Münze oft genug wirft, dann kommen immer
@@ -14,11 +14,10 @@ immer 50 Kopf- und 50 Zahlergebnisse?
 Am besten du testest einmal mit einigen Würfen einer Münze – versuche
 einmal 10 Würfe: Lege dir eine Tabelle an, in die du die Ergebnisse
 einträgst.
-<a href="https://microbit.eeducation.at/wiki/Datei:Kopf_zahl.jpg" class="image">
-<img src="https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/600px-Kopf_zahl.jpg" 
-srcset="https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/600px-Kopf_zahl.jpg 1.5x, /images/thumb/1/11/Kopf_zahl.jpg/1200px-Kopf_zahl.jpg 2x" width="200"  alt="Kopf zahl.jpg" /></a>  <a href="https://microbit.eeducation.at/wiki/Datei:Tabelle_zufall1.jpg" class="image" title="50%"><img src="https://microbit.eeducation.at/images/e/ec/Tabelle_zufall1.jpg" width="575" height="480" alt="50%" /></a>
 
-## <span id="Aufgabenstellung" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_gluehbirne.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/7/7e/Icon_gluehbirne.png/20px-Icon_gluehbirne.png" srcset="https://microbit.eeducation.at/images/thumb/7/7e/Icon_gluehbirne.png/30px-Icon_gluehbirne.png 1.5x, /images/thumb/7/7e/Icon_gluehbirne.png/40px-Icon_gluehbirne.png 2x" width="20" height="20" alt="Icon" /></a> Aufgabenstellung</span>
+<img src="https://microbit.eeducation.at/images/e/ec/Tabelle_zufall1.jpg" width="575"/>
+
+## <img src="https://microbit.eeducation.at/images/thumb/7/7e/Icon_gluehbirne.png/30px-Icon_gluehbirne.png" width="30" alt="Icon" /></a> Aufgabenstellung</span>
 
 Mit dem BBC micro:bit kannst du dies noch bequemer testen – du benützt
 den Zufallsgenerator des micro:bit. Entwickle ein Programm, mit dem man
@@ -32,7 +31,7 @@ viele Würfe zu produzieren, sollte dabei ebenfalls zum Tragen kommen.
 -   Taste A+B sollten die Gesamtanzahl der Versuche darstellen
 -   Neustart mit "Reset"-Taste (Erweiterung)
 
-## <span id="Materialien" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_material.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/c/ce/Icon_material.png/20px-Icon_material.png" srcset="https://microbit.eeducation.at/images/thumb/c/ce/Icon_material.png/30px-Icon_material.png 1.5x, /images/thumb/c/ce/Icon_material.png/40px-Icon_material.png 2x" width="20" height="20" alt="Icon" /></a> Materialien</span>
+## <span id="Materialien" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_material.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/c/ce/Icon_material.png/30px-Icon_material.png" srcset="https://microbit.eeducation.at/images/thumb/c/ce/Icon_material.png/30px-Icon_material.png 1.5x, /images/thumb/c/ce/Icon_material.png/40px-Icon_material.png 2x" width="30" alt="Icon" /></a> Materialien</span>
 
 -   Münze
 -   Blatt Papier
@@ -40,17 +39,18 @@ viele Würfe zu produzieren, sollte dabei ebenfalls zum Tragen kommen.
 
 
 
-## <span id="Zeitaufwand" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_sanduhr.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/8/8a/Icon_sanduhr.png/20px-Icon_sanduhr.png" srcset="https://microbit.eeducation.at/images/thumb/8/8a/Icon_sanduhr.png/30px-Icon_sanduhr.png 1.5x, /images/thumb/8/8a/Icon_sanduhr.png/40px-Icon_sanduhr.png 2x" width="20" height="20" alt="Icon" /></a> Zeitaufwand</span>
+
+## <span id="Zeitaufwand" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_sanduhr.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/8/8a/Icon_sanduhr.png/30px-Icon_sanduhr.png" srcset="https://microbit.eeducation.at/images/thumb/8/8a/Icon_sanduhr.png/30px-Icon_sanduhr.png 1.5x, /images/thumb/8/8a/Icon_sanduhr.png/40px-Icon_sanduhr.png 2x" width="30" alt="Icon" /></a> Zeitaufwand</span>
 
 -   1 Unterrichtseinheit
 
-## <span id="Schwierigkeitsgrad" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_puzzle3.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/0/03/Icon_puzzle3.png/20px-Icon_puzzle3.png" srcset="https://microbit.eeducation.at/images/thumb/0/03/Icon_puzzle3.png/30px-Icon_puzzle3.png 1.5x, /images/thumb/0/03/Icon_puzzle3.png/40px-Icon_puzzle3.png 2x" width="20" height="20" alt="Icon" /></a> Schwierigkeitsgrad</span>
+## <span id="Schwierigkeitsgrad" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_puzzle3.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/0/03/Icon_puzzle3.png/30px-Icon_puzzle3.png" srcset="https://microbit.eeducation.at/images/thumb/0/03/Icon_puzzle3.png/30px-Icon_puzzle3.png 1.5x, /images/thumb/0/03/Icon_puzzle3.png/40px-Icon_puzzle3.png 2x" width="30" alt="Icon" /></a> Schwierigkeitsgrad</span>
 
 <a href="https://microbit.eeducation.at/wiki/Datei:SternGelb.png" class="image" title="borderless"><img src="https://microbit.eeducation.at/images/thumb/9/96/SternGelb.png/30px-SternGelb.png" srcset="https://microbit.eeducation.at/images/thumb/9/96/SternGelb.png/45px-SternGelb.png 1.5x, /images/thumb/9/96/SternGelb.png/60px-SternGelb.png 2x" width="30" height="29" alt="borderless" /></a><a href="https://microbit.eeducation.at/wiki/Datei:SternLeer.png" class="image" title="borderless"><img src="https://microbit.eeducation.at/images/thumb/1/1f/SternLeer.png/30px-SternLeer.png" srcset="https://microbit.eeducation.at/images/thumb/1/1f/SternLeer.png/45px-SternLeer.png 1.5x, /images/thumb/1/1f/SternLeer.png/60px-SternLeer.png 2x" width="30" height="29" alt="borderless" /></a><a href="https://microbit.eeducation.at/wiki/Datei:SternLeer.png" class="image" title="borderless"><img src="https://microbit.eeducation.at/images/thumb/1/1f/SternLeer.png/30px-SternLeer.png" srcset="https://microbit.eeducation.at/images/thumb/1/1f/SternLeer.png/45px-SternLeer.png 1.5x, /images/thumb/1/1f/SternLeer.png/60px-SternLeer.png 2x" width="30" height="29" alt="borderless" /></a>
 
   
 
-## <span id="Kompetenzen" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_brain.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/b/b3/Icon_brain.png/20px-Icon_brain.png" srcset="https://microbit.eeducation.at/images/thumb/b/b3/Icon_brain.png/30px-Icon_brain.png 1.5x, /images/thumb/b/b3/Icon_brain.png/40px-Icon_brain.png 2x" width="20" height="20" alt="Icon" /></a> Kompetenzen</span>
+## <span id="Kompetenzen" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_brain.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/b/b3/Icon_brain.png/30px-Icon_brain.png" srcset="https://microbit.eeducation.at/images/thumb/b/b3/Icon_brain.png/30px-Icon_brain.png 1.5x, /images/thumb/b/b3/Icon_brain.png/40px-Icon_brain.png 2x" width="30" alt="Icon" /></a> Kompetenzen</span>
 
 <div class="floatright">
 
@@ -77,13 +77,13 @@ Bei dieser Aufgabe lernst du auch
 
 -   ein NEUES Programm zu lesen und es zu interpretieren
 
-## <span id="Unterrichtsf.C3.A4cher" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_faecher.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/f/f3/Icon_faecher.png/20px-Icon_faecher.png" srcset="https://microbit.eeducation.at/images/thumb/f/f3/Icon_faecher.png/30px-Icon_faecher.png 1.5x, /images/thumb/f/f3/Icon_faecher.png/40px-Icon_faecher.png 2x" width="20" height="20" alt="Icon" /></a> Unterrichtsfächer</span>
+## <span id="Unterrichtsf.C3.A4cher" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_faecher.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/f/f3/Icon_faecher.png/30px-Icon_faecher.png" srcset="https://microbit.eeducation.at/images/thumb/f/f3/Icon_faecher.png/30px-Icon_faecher.png 1.5x, /images/thumb/f/f3/Icon_faecher.png/40px-Icon_faecher.png 2x" width="30" alt="Icon" /></a> Unterrichtsfächer</span>
 
 -   Mathematik
 -   Informatik
 -   Deutsch
 
-## <span id="Tipps_und_Hilfestellungen" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_hilfe.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/3/3d/Icon_hilfe.png/20px-Icon_hilfe.png" srcset="https://microbit.eeducation.at/images/thumb/3/3d/Icon_hilfe.png/30px-Icon_hilfe.png 1.5x, /images/thumb/3/3d/Icon_hilfe.png/40px-Icon_hilfe.png 2x" width="20" height="20" alt="Icon" /></a> Tipps und Hilfestellungen</span>
+## <span id="Tipps_und_Hilfestellungen" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_hilfe.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/3/3d/Icon_hilfe.png/30px-Icon_hilfe.png" srcset="https://microbit.eeducation.at/images/thumb/3/3d/Icon_hilfe.png/30px-Icon_hilfe.png 1.5x, /images/thumb/3/3d/Icon_hilfe.png/40px-Icon_hilfe.png 2x" width="30" alt="Icon" /></a> Tipps und Hilfestellungen</span>
 
 ### <span id="Erforderliche_Programmierbl.C3.B6cke" class="mw-headline">Erforderliche Programmierblöcke</span>
 
@@ -239,7 +239,7 @@ Hinweise zur Lösungsfindung und auch eine mögliche, komplette Lösung
 findest du auf der [Lösungsseite zu diesem
 Beispiel](/wiki/L%C3%B6sung_zufall "Lösung zufall")
 
-## <span id="Pr.C3.A4sentation_und_Reflexion" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Presentation.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/6/62/Presentation.png/20px-Presentation.png" srcset="https://microbit.eeducation.at/images/thumb/6/62/Presentation.png/30px-Presentation.png 1.5x, /images/thumb/6/62/Presentation.png/40px-Presentation.png 2x" width="20" height="20" alt="Icon" /></a> Präsentation und Reflexion</span>
+## <span id="Pr.C3.A4sentation_und_Reflexion" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Presentation.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/6/62/Presentation.png/20px-Presentation.png" srcset="https://microbit.eeducation.at/images/thumb/6/62/Presentation.png/30px-Presentation.png 1.5x, /images/thumb/6/62/Presentation.png/40px-Presentation.png 2x" width="30" alt="Icon" /></a> Präsentation und Reflexion</span>
 
 ### <span id="Allgemein" class="mw-headline">Allgemein</span>
 
@@ -261,7 +261,7 @@ Beispiel](/wiki/L%C3%B6sung_zufall "Lösung zufall")
 -   Bei welcher Erweiterungsstufe war es am schwierigsten, einen
     Programmcode zu erstellen.
 
-## <span id="Weiterentwicklung" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_plus.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/0/0c/Icon_plus.png/20px-Icon_plus.png" srcset="https://microbit.eeducation.at/images/thumb/0/0c/Icon_plus.png/30px-Icon_plus.png 1.5x, /images/thumb/0/0c/Icon_plus.png/40px-Icon_plus.png 2x" width="20" height="20" alt="Icon" /></a> Weiterentwicklung</span>
+## <span id="Weiterentwicklung" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_plus.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/0/0c/Icon_plus.png/30px-Icon_plus.png" srcset="https://microbit.eeducation.at/images/thumb/0/0c/Icon_plus.png/30px-Icon_plus.png 1.5x, /images/thumb/0/0c/Icon_plus.png/40px-Icon_plus.png 2x" width="30" alt="Icon" /></a> Weiterentwicklung</span>
 
 -   Schleife: Du kannst mit einer Schleife nicht nur jeweils einen Wurf
     produzieren, sondern gleich 100 oder gar 1000 Würfe
