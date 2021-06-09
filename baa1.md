@@ -15,13 +15,8 @@ Am besten du testest einmal mit einigen Würfen einer Münze – versuche
 einmal 10 Würfe: Lege dir eine Tabelle an, in die du die Ergebnisse
 einträgst.
 <a href="https://microbit.eeducation.at/wiki/Datei:Kopf_zahl.jpg" class="image">
-<img src="https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/600px-Kopf_zahl.jpg" srcset="https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/900px-Kopf_zahl.jpg 1.5x, /images/thumb/1/11/Kopf_zahl.jpg/1200px-Kopf_zahl.jpg 2x" width="600" height="289" alt="Kopf zahl.jpg" /></a>
-
-
-
-
-
-<a href="https://microbit.eeducation.at/wiki/Datei:Tabelle_zufall1.jpg" class="image" title="50%"><img src="https://microbit.eeducation.at/images/e/ec/Tabelle_zufall1.jpg" width="575" height="480" alt="50%" /></a>
+<img src="https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/600px-Kopf_zahl.jpg" 
+srcset="https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/600px-Kopf_zahl.jpg 1.5x, /images/thumb/1/11/Kopf_zahl.jpg/1200px-Kopf_zahl.jpg 2x" width="200"  alt="Kopf zahl.jpg" /></a>  <a href="https://microbit.eeducation.at/wiki/Datei:Tabelle_zufall1.jpg" class="image" title="50%"><img src="https://microbit.eeducation.at/images/e/ec/Tabelle_zufall1.jpg" width="575" height="480" alt="50%" /></a>
 
 ## <span id="Aufgabenstellung" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_gluehbirne.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/7/7e/Icon_gluehbirne.png/20px-Icon_gluehbirne.png" srcset="https://microbit.eeducation.at/images/thumb/7/7e/Icon_gluehbirne.png/30px-Icon_gluehbirne.png 1.5x, /images/thumb/7/7e/Icon_gluehbirne.png/40px-Icon_gluehbirne.png 2x" width="20" height="20" alt="Icon" /></a> Aufgabenstellung</span>
 
