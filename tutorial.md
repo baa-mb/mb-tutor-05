@@ -238,7 +238,7 @@ Get a `||input:temperature||` block and place it in the value slot of
     basic.forever(function() {
         basic.showNumber(input.temperature())
         basic.pause(1000)
-        basic.showString(&quot;alois&quot;)
+        basic.showString("alois)
     })
 ```
 

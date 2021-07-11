@@ -31,57 +31,6 @@ viele Würfe zu produzieren, sollte dabei ebenfalls zum Tragen kommen.
 -   Taste A+B sollten die Gesamtanzahl der Versuche darstellen
 -   Neustart mit "Reset"-Taste (Erweiterung)
 
-## <span id="Materialien" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_material.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/c/ce/Icon_material.png/30px-Icon_material.png" srcset="https://microbit.eeducation.at/images/thumb/c/ce/Icon_material.png/30px-Icon_material.png 1.5x, /images/thumb/c/ce/Icon_material.png/40px-Icon_material.png 2x" width="30" alt="Icon" /></a> Materialien</span>
-
--   Münze
--   Blatt Papier
--   micro:bit
-
-
-
-
-## <span id="Zeitaufwand" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_sanduhr.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/8/8a/Icon_sanduhr.png/30px-Icon_sanduhr.png" srcset="https://microbit.eeducation.at/images/thumb/8/8a/Icon_sanduhr.png/30px-Icon_sanduhr.png 1.5x, /images/thumb/8/8a/Icon_sanduhr.png/40px-Icon_sanduhr.png 2x" width="30" alt="Icon" /></a> Zeitaufwand</span>
-
--   1 Unterrichtseinheit
-
-## <span id="Schwierigkeitsgrad" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_puzzle3.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/0/03/Icon_puzzle3.png/30px-Icon_puzzle3.png" srcset="https://microbit.eeducation.at/images/thumb/0/03/Icon_puzzle3.png/30px-Icon_puzzle3.png 1.5x, /images/thumb/0/03/Icon_puzzle3.png/40px-Icon_puzzle3.png 2x" width="30" alt="Icon" /></a> Schwierigkeitsgrad</span>
-
-<a href="https://microbit.eeducation.at/wiki/Datei:SternGelb.png" class="image" title="borderless"><img src="https://microbit.eeducation.at/images/thumb/9/96/SternGelb.png/30px-SternGelb.png" srcset="https://microbit.eeducation.at/images/thumb/9/96/SternGelb.png/45px-SternGelb.png 1.5x, /images/thumb/9/96/SternGelb.png/60px-SternGelb.png 2x" width="30" height="29" alt="borderless" /></a><a href="https://microbit.eeducation.at/wiki/Datei:SternLeer.png" class="image" title="borderless"><img src="https://microbit.eeducation.at/images/thumb/1/1f/SternLeer.png/30px-SternLeer.png" srcset="https://microbit.eeducation.at/images/thumb/1/1f/SternLeer.png/45px-SternLeer.png 1.5x, /images/thumb/1/1f/SternLeer.png/60px-SternLeer.png 2x" width="30" height="29" alt="borderless" /></a><a href="https://microbit.eeducation.at/wiki/Datei:SternLeer.png" class="image" title="borderless"><img src="https://microbit.eeducation.at/images/thumb/1/1f/SternLeer.png/30px-SternLeer.png" srcset="https://microbit.eeducation.at/images/thumb/1/1f/SternLeer.png/45px-SternLeer.png 1.5x, /images/thumb/1/1f/SternLeer.png/60px-SternLeer.png 2x" width="30" height="29" alt="borderless" /></a>
-
-  
-
-## <span id="Kompetenzen" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_brain.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/b/b3/Icon_brain.png/30px-Icon_brain.png" srcset="https://microbit.eeducation.at/images/thumb/b/b3/Icon_brain.png/30px-Icon_brain.png 1.5x, /images/thumb/b/b3/Icon_brain.png/40px-Icon_brain.png 2x" width="30" alt="Icon" /></a> Kompetenzen</span>
-
-<div class="floatright">
-
-<a href="https://microbit.eeducation.at/wiki/Datei:IMG_5764_(1).png" class="image"><img src="https://microbit.eeducation.at/images/e/e6/IMG_5764_%281%29.png" width="284" height="177" alt="IMG 5764 (1).png" /></a>
-
-</div>
-
-Du solltest bereits
-
--   einen Prozentanteil schätzen können
--   eine Wertetabelle anlegen und auswerten können
-
-  
-Beim Programmieren lernst bzw. übst du
-
--   [Variablen](/wiki/Variablen "Variablen") zu verwenden
--   <a href="/index.php?title=Operatoren&amp;action=edit&amp;redlink=1" class="new" title="Operatoren (Seite nicht vorhanden)">Operatoren</a>
-    zu verwenden
--   den [Zufallsgenerator](/wiki/Zufallsgenerator "Zufallsgenerator") zu
-    nutzen
--   [Bedingungen](/wiki/Bedingungen "Bedingungen") zu verwenden
-
-Bei dieser Aufgabe lernst du auch
-
--   ein NEUES Programm zu lesen und es zu interpretieren
-
-## <span id="Unterrichtsf.C3.A4cher" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_faecher.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/f/f3/Icon_faecher.png/30px-Icon_faecher.png" srcset="https://microbit.eeducation.at/images/thumb/f/f3/Icon_faecher.png/30px-Icon_faecher.png 1.5x, /images/thumb/f/f3/Icon_faecher.png/40px-Icon_faecher.png 2x" width="30" alt="Icon" /></a> Unterrichtsfächer</span>
-
--   Mathematik
--   Informatik
--   Deutsch
 
 ## <span id="Tipps_und_Hilfestellungen" class="mw-headline"><a href="https://microbit.eeducation.at/wiki/Datei:Icon_hilfe.png" class="image" title="Icon"><img src="https://microbit.eeducation.at/images/thumb/3/3d/Icon_hilfe.png/30px-Icon_hilfe.png" srcset="https://microbit.eeducation.at/images/thumb/3/3d/Icon_hilfe.png/30px-Icon_hilfe.png 1.5x, /images/thumb/3/3d/Icon_hilfe.png/40px-Icon_hilfe.png 2x" width="30" alt="Icon" /></a> Tipps und Hilfestellungen</span>
 
@@ -107,48 +56,26 @@ Bei dieser Aufgabe lernst du auch
 -   Anstelle des Münzwurfs sollte der Zufallsgenerator "wahr" oder
     "falsch" liefern <a href="#" class="spoilerLink">Block</a>
 
-<div id="LLROIQMPZOYKUDJTBJOD" class="spoiler" style="display: none;">
-
-<div class="mw-parser-output">
-
-</div>
-
-</div>
 
 -   Der Zufallsgenerator sollte durch Schütteln des micro:bit aufgerufen
     werden <a href="#" class="spoilerLink">Block</a>
 
-<div id="MEYELFPLCSVKVYXNKBSO" class="spoiler" style="display: none;">
-
-<div class="mw-parser-output">
-
-</div>
-
-</div>
-
 -   Je nach Bedingung "wahr" oder "falsch" sollten verschiedene Aktionen
     stattfinden <a href="#" class="spoilerLink">Block</a>
 
-<div id="CREFWMCDKWVAIOEWPSNT" class="spoiler" style="display: none;">
-
-<div class="mw-parser-output">
-
-</div>
-
-</div>
 
 -   Bestimmte Tastenereignisse für Taste A, B und A+B - müssen Daten
     anzeigen <a href="#" class="spoilerLink">Block</a>
 
 <div id="MCMAAZMUAGMEJVFHKWKZ" class="spoiler" style="display: none;">
 
-<div class="mw-parser-output">
 
-<a href="https://microbit.eeducation.at/wiki/Datei:Taste_a.png" class="image"><img src="https://microbit.eeducation.at/images/7/7c/Taste_a.png" class="thumbborder" width="600" height="162" alt="Taste a.png" /></a>
-<a href="https://microbit.eeducation.at/wiki/Datei:Bild_20180513_004039.png" class="image"><img src="https://microbit.eeducation.at/images/b/b9/Bild_20180513_004039.png" class="thumbborder" width="632" height="180" alt="Bild 20180513 004039.png" /></a>
-<a href="https://microbit.eeducation.at/wiki/Datei:Bild_20180513_004129.png" class="image"><img src="https://microbit.eeducation.at/images/0/0a/Bild_20180513_004129.png" class="thumbborder" width="670" height="188" alt="Bild 20180513 004129.png" /></a>
 
-</div>
+<img src="https://microbit.eeducation.at/images/7/7c/Taste_a.png" class="thumbborder" width="600" />
+<img src="https://microbit.eeducation.at/images/b/b9/Bild_20180513_004039.png" class="thumbborder" width="632" />
+<img src="https://microbit.eeducation.at/images/0/0a/Bild_20180513_004129.png" class="thumbborder" width="670" />
+
+
 
 </div>
 
