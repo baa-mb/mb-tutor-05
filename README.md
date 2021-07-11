@@ -44,6 +44,11 @@ viele Würfe zu produzieren, sollte dabei ebenfalls zum Tragen kommen.
 
 ## ![Icon](https://microbit.eeducation.at/images/thumb/0/03/Icon_puzzle3.png/40px-Icon_puzzle3.png "Icon") Schwierigkeitsgrad
 
+![Icon](https://microbit.eeducation.at/images/thumb/9/96/SternGelb.png/30px-SternGelb.png "Icon")
+![Icon](https://microbit.eeducation.at/images/thumb/9/96/SternGelb.png/30px-SternGelb.png "Icon")
+![Icon](https://microbit.eeducation.at/images/thumb/1/1f/SternLeer.png/30px-SternLeer.png "Icon")
+
+
 [30px|borderless](Datei:SternGelb.png "wikilink")[30px|borderless](Datei:SternLeer.png "wikilink")[30px|borderless](Datei:SternLeer.png "wikilink")
 
 ## ![Icon](https://microbit.eeducation.at/images/thumb/b/b3/Icon_brain.png/40px-Icon_brain.png "Icon") Kompetenzen
